@@ -39,6 +39,14 @@
     background-color: #525252;
 }
 
+.ui-menu-color-github {
+    background-color: #1c4a6c;
+}
+
+.ui-menu-color-interests {
+    background-color: #e74c3c;
+}
+
 /* Special paddings/margins/text */
 
 h1, h2, h3, h4 {
@@ -89,7 +97,7 @@ header {
 }
 
 .logo {
-    background: url(../css/images/rosie.jpg) no-repeat center / cover;
+    background: url(../images/rosie.jpg) no-repeat center / cover;
     min-height: 360px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
