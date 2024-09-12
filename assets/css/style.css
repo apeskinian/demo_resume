@@ -293,6 +293,12 @@ footer {
     width: 60%;
 }
 
+/* Interests */
+
+#map {
+    min-height: 360px;
+}
+
 /* Skills */
 
 .progress {
